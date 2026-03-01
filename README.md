@@ -35,3 +35,4 @@ Kendimi frontend geliştirme ve modern web teknolojileri alanında geliştirmekt
 
 Bana ulaşmak veya diğer projelerime göz atmak için bağlantılarım:
 * [LinkedIn Profilim](https://www.linkedin.com/in/okan-yılmazer-a586bb389/)
+* Gmail:okanyilmazer2010@gmail.com
